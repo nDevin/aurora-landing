@@ -45,28 +45,18 @@
 1. 克隆项目
 
 ```bash
-git clone https://github.com/langgptai/aurora-landing.git
+git clone https://github.com/nDevin/aurora-landing.git
 cd aurora-landing
 ```
 
 2. 安装依赖
-
 ```bash
 npm install
-# 或
-yarn install
-# 或
-pnpm install
 ```
 
 3. 启动开发服务器
-
 ```bash
 npm run dev
-# 或
-yarn dev
-# 或
-pnpm dev
 ```
 
 4. 在浏览器中打开 [http://localhost:3000](http://localhost:3000)
@@ -155,10 +145,7 @@ aurora-landing/
 
 ## 📮 联系我们
 
-- GitHub：[langgptai](https://github.com/langgptai)
-- 微信：1796060717
-- 邮箱：ethereal_ai@hotmail.com
-
+- GitHub：[nDevin](https://github.com/nDevin)
 ---
 
 如果这个项目对您有帮助，欢迎给个 Star ⭐️！
