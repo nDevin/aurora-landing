@@ -14,26 +14,26 @@ import {
 
 const features = [
   {
-    name: "中文优化对话体验",
-    description: "基于中文大语言模型深度优化，完美理解中文语境和表达方式，对话更自然流畅。",
-    icon: ChatBubbleLeftRightIcon,
+    name: "强大的代码能力",
+    description: "支持多种编程语言，智能代码补全与错误检测，提升开发效率与代码质量。",
+    icon: BoltIcon,
     color: "from-blue-500 to-cyan-500",
   },
   {
-    name: "智能交互界面",
-    description: "精心设计的交互体验，简洁直观的操作方式，让AI对话像聊天一样轻松自如。",
-    icon: CursorArrowRaysIcon,
+    name: "智慧懂你", 
+    description: "基于深度学习的个性化推荐系统，理解您的使用习惯，提供精准智能服务。",
+    icon: SparklesIcon,
     color: "from-purple-500 to-pink-500",
   },
   {
-    name: "强大的知识引擎",
-    description: "海量知识库支持，从科技前沿到人文历史，助您探索世界的每个角落。",
-    icon: SparklesIcon,
+    name: "高质量设计",
+    description: "精心打磨的UI/UX设计，遵循现代设计规范，提供优雅美观的视觉体验。",
+    icon: CursorArrowRaysIcon,
     color: "from-amber-500 to-orange-500",
   },
   {
-    name: "隐私安全保障",
-    description: "采用先进的数据加密技术，严格的隐私保护机制，确保您的数据安全。",
+    name: "产品体验优秀",
+    description: "流畅的交互设计，极致的性能优化，让每一次使用都成为享受。",
     icon: ShieldCheckIcon,
     color: "from-green-500 to-emerald-500",
   },

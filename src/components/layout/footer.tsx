@@ -34,18 +34,18 @@ const navigation = {
       name: "微信社区",
       href: "#",
       icon: MessageSquareIcon,
-      value: "1796060717",
+      value: "Devin.cn",
     },
     {
       name: "GitHub",
-      href: "https://github.com/langgptai",
+      href: "https://Devin.cn",
       icon: GithubIcon,
     },
     {
       name: "邮箱",
-      href: "mailto:ethereal_ai@hotmail.com",
+      href: "mailto:Devin@mail.com",
       icon: MailIcon,
-      value: "ethereal_ai@hotmail.com",
+      value: "Devin@mail.com",
     },
   ],
 };
