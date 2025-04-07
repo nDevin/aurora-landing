@@ -9,7 +9,7 @@
 
 一个现代、优雅且动画丰富的落地页模板，基于 Next.js 13+、Tailwind CSS 和 Framer Motion 构建。
 
-[English](./README_EN.md) · [演示 Demo](https://aurora-landing-woad.vercel.app) · [问题反馈](https://github.com/langgptai/aurora-landing/issues)
+[演示 Demo](https://aurora-landing-woad.vercel.app) · [问题反馈](https://github.com/langgptai/aurora-landing/issues)
 
 </div>
 
